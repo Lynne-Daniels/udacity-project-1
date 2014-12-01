@@ -1,0 +1,36 @@
+References used for Project One
+
+http://getbootstrap.com/getting-started/#download
+used <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+http://www.tutorialspoint.com/bootstrap/bootstrap_environment_setup.htm
+
+http://www.bootply.com/70929
+learned to use class="img-responsive" to make the image stay inside its column
+(later quit using that in favor of a fixed size so that the auto-grader would give me a better matching score.)(Then put it back after a good submission so the browser can resize without breaking things.)
+
+Used text converted from image posted by Carl Poulton in the Piazza student forum.
+(With a couple corrections.)
+
+http://www.w3schools.com/cssref/pr_border.asp
+Got the border properties in the right order.
+
+http://www.w3schools.com/cssref/pr_margin.asp
+Reviewed margin property shorthand order.
+
+http://stackoverflow.com/questions/16253273/article-and-aside-with-padding
+confirmed I was perfectly reasonable in thinking I could assign a margin to an aside.  Later figured out that it only works if there is no comma between 10px and 0px.
+
+http://superuser.com/questions/486344/how-can-i-use-the-lucida-grande-font-in-windows
+After having much difficuly trying to make the fonts match, i figured out that Lucida Grand not on windows. Right, first big lesson in cross-platform compatibility done.
+
+Had to look up the order for margin properties.  Again. And again.
+http://www.w3schools.com/css/css_margin.asp 
+
+The test load page was being flaky and needs internet, so I made my own version.  Had to use http://www.w3schools.com/cssref/pr_background-image.asp to see how to make the mockup a background image to my page.
+http://www.w3schools.com/cssref/pr_background-repeat.asp
+
+http://www.w3schools.com/cssref/pr_font_font.asp
+The properties that can be set, are (in order): "font-style font-variant font-weight font-size/line-height font-family"
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc. By including this in my email, I understand that I will be expected to explain my work in a video call with a Udacity coach before I can receive my verified certificate.
